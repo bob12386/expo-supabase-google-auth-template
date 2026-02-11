@@ -1,0 +1,86 @@
+# ------------------------------
+# Dependencies
+# ------------------------------
+node_modules/
+
+# ------------------------------
+# Expo
+# ------------------------------
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+
+# Expo dev client builds
+*.apk
+*.aab
+*.ipa
+
+# ------------------------------
+# Metro
+# ------------------------------
+.metro-cache/
+.metro-health-check*
+
+# ------------------------------
+# Native / Prebuild
+# ------------------------------
+/ios
+/android
+
+# Gradle / Kotlin
+.kotlin/
+.gradle/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+DerivedData/
+
+# ------------------------------
+# Debug Logs
+# ------------------------------
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.*
+
+# ------------------------------
+# macOS
+# ------------------------------
+.DS_Store
+
+# ------------------------------
+# Environment Files (IMPORTANT)
+# ------------------------------
+.env
+.env.*
+!.env.example
+
+# ------------------------------
+# Secrets / Certificates
+# ------------------------------
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# ------------------------------
+# TypeScript
+# ------------------------------
+*.tsbuildinfo
+
+# ------------------------------
+# Testing
+# ------------------------------
+coverage/
+
+# ------------------------------
+# Misc
+# ------------------------------
+*.log
+*.orig.*
+app-example
